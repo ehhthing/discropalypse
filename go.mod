@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/schollz/progressbar/v3 v3.13.1
-	github.com/tetratelabs/wazero v1.0.0-rc.2
+	github.com/tetratelabs/wazero v1.0.1
 )
 
 require (
